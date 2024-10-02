@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kaykyrodrigo.
+- I’m interested in learning to code to create projects like games and useful scripts for my day-to-day.
+- I’m currently learning JavaScript, Python, C++, and other languages to become a full-stack developer.
